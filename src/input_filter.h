@@ -3,7 +3,7 @@
 
 
 #ifndef INPUT_FILTER_MIN_TAU
-#define INPUT_FILTER_MIN_TAU 10 // minimum tau constant in sec
+#define INPUT_FILTER_MIN_TAU 1 // minimum tau constant in sec
 #endif
 #include <Arduino.h>
 
